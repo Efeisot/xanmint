@@ -19,3 +19,5 @@ Added Themes (you need choose themes manually):
 
 How is it looks:
 ![image](https://github.com/Efeisot/mint-xfce-cubic-iso/assets/104940108/a30e9e7d-659a-47c2-a363-f88c88aad11e)
+
+[Download ISO]([url](https://drive.google.com/file/d/1bx6SYmGS7IHCAlzXGiCKINJVOABg0JKp/view?usp=sharing)https://drive.google.com/file/d/1bx6SYmGS7IHCAlzXGiCKINJVOABg0JKp/view?usp=sharing)
