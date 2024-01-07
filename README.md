@@ -14,6 +14,7 @@ Added Apps:
 - Discord
 - Thorium Browser
 - VLC
+- qBitTorrent
 - OnlyOffice
 - Okular
 - Pulse Effects
