@@ -29,9 +29,11 @@ Removed Apps:
 - Firefox
 - Timeshift
 - Transmission
-
+- Celluloid
+  
 How is it looks:
-![image](https://github.com/Efeisot/mint-xfce-cubic-iso/assets/104940108/a30e9e7d-659a-47c2-a363-f88c88aad11e)
+![image-9](https://github.com/Efeisot/mint-xfce-cubic-iso/assets/104940108/c17e37c4-2d31-4295-b02b-0c36ea0c3fd1)
+
 
 [Download ISO](https://drive.google.com/file/d/1bx6SYmGS7IHCAlzXGiCKINJVOABg0JKp/view?usp=sharing) 
 I'll share updated ISO
