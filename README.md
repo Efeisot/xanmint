@@ -30,6 +30,8 @@ Removed Apps:
 - Timeshift
 - Transmission
 - Celluloid
+- LibreOffice
+- Some Mint Apps
   
 How is it looks:
 ![image-9](https://github.com/Efeisot/mint-xfce-cubic-iso/assets/104940108/c17e37c4-2d31-4295-b02b-0c36ea0c3fd1)
