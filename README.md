@@ -45,5 +45,5 @@ How is it looks:
 ![image-9](https://github.com/Efeisot/mint-xfce-cubic-iso/assets/104940108/c17e37c4-2d31-4295-b02b-0c36ea0c3fd1)
 
 
-[Download ISO](https://drive.google.com/file/d/1bx6SYmGS7IHCAlzXGiCKINJVOABg0JKp/view?usp=sharing) 
-I'll share updated ISO
+[Download ISO](https://drive.google.com/file/d/1FXWvQqDePKWZ_8a8m_hILU0KoM9wFk0v/view?usp=sharing)
+
