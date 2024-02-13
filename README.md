@@ -1,5 +1,6 @@
+![Adsız tasarım (1)](https://github.com/Efeisot/xanmint/assets/104940108/34b9808a-93a3-45d0-8d09-8c9d9a6edad0)
+
 I made a modified Linux Mint ISO with Cubic.
-![▄](https://github.com/Efeisot/xanmint/assets/104940108/d9a10ec1-52b3-4724-8bd2-45486202624a)
 
 Feautures:
 - Xanmod 6.6.16 v2 kernel added
@@ -13,7 +14,6 @@ Added Apps:
 - Feral Gamemode
 - Goverlay and Mangohud
 - Discord
-- Thorium Browser
 - VLC
 - qBitTorrent
 - OnlyOffice
@@ -23,7 +23,6 @@ Added Apps:
 - Java Jre 8, 11 and 17
 
 Removed Apps:
-- Firefox
 - Timeshift
 - Transmission
 - Celluloid
