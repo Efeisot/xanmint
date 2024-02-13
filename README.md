@@ -39,7 +39,9 @@ Removed Apps:
 How is it looks:
 ![image](https://github.com/Efeisot/xanmint/assets/104940108/a199a82f-134d-4cda-81d9-da0b522d6a2f)
 
-
+Credit: 
+- Used spinner_alt plymouth theme by adi1090x
+- Wallpaper by Canva's AI
 
 [Download ISO - OLD FILE, NEW FILE WILL BE UPLOADED](https://drive.google.com/file/d/1FXWvQqDePKWZ_8a8m_hILU0KoM9wFk0v/view?usp=sharing)
 
