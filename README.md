@@ -43,5 +43,5 @@ Credit:
 - Used spinner_alt plymouth theme by adi1090x
 - Wallpaper by Canva's AI
 
-[Download ISO - OLD FILE, NEW FILE WILL BE UPLOADED](https://drive.google.com/file/d/1FXWvQqDePKWZ_8a8m_hILU0KoM9wFk0v/view?usp=sharing)
+[Download Xanmint v1.0 GhostWhistle ISO](https://drive.google.com/file/d/1FbamNFwnV8n5GEZKmhw6Ryeq6Nm8KDjy/view?usp=sharing)
 
