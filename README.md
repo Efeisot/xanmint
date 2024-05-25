@@ -45,3 +45,6 @@ Credit:
 
 [Download Xanmint v1.0 GhostWhistle ISO](https://drive.google.com/file/d/1FbamNFwnV8n5GEZKmhw6Ryeq6Nm8KDjy/view?usp=sharing)
 
+[New ISO](https://www.mediafire.com/file/ir504pwjb4xtwnt/xanmint-ghostwhistle.iso/file)
+
+
